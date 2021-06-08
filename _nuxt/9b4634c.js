@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{324:function(e,n,t){"use strict";t.r(n);var o={name:"HeaderSection"},c=t(12),component=Object(c.a)(o,(function(){var e=this,n=e.$createElement;return(e._self._c||n)("div",{staticClass:"h-32 mx-auto"},[e._v("\n  Realphotos.org\n")])}),[],!1,null,"7fe54d66",null);n.default=component.exports}}]);
